@@ -1,4 +1,4 @@
-# Weather-Driven Forecasting of Public Transport Delays
+Weather-Driven Forecasting of Public Transport Delays
 
 This project focuses on predicting public transport delays using **weather data** and **GTFS (General Transit Feed Specification)** datasets.  
 It covers the full machine learning pipeline — from large-scale data preprocessing and integration (using **Polars** and **DuckDB**) to model training and evaluation with **LightGBM**.
@@ -7,7 +7,7 @@ The goal is to understand how weather conditions affect transport delays and pro
 
 ---
 
-## 🚀 Key Features
+Key Features
 - Efficient handling of large GTFS and weather datasets
 - Comprehensive data cleaning, feature engineering, and integration
 - Incremental model training with **LightGBM** for scalability
@@ -15,7 +15,7 @@ The goal is to understand how weather conditions affect transport delays and pro
 
 ---
 
-## 🖥️ Web Interface
+Web Interface
 A preview of the web interface UI is shown below:  
 ![Web Interface Preview](artifacts/Web%20Interface.jpeg)
 
